@@ -1,0 +1,6 @@
+# API key
+JS/config.js
+
+# OS junk (opcional pero recomendable)
+.DS_Store
+Thumbs.db
