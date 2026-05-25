@@ -23,7 +23,7 @@ A weather app that adapts its entire visual experience — glassmorphism UI, col
 
 ## Live Demo
 
-[![Vercel](https://img.shields.io/badge/Live%20Demo-%E2%96%B2%20Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://weather-in-motion-git-main-glunmy-grims-projects.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌤️_Weather_in_Motion-Try_it_Now!-black?style=for-the-badge&logo=vercel&logoColor=white)](https://weather-in-motion-git-main-glunmy-grims-projects.vercel.app)
 
 ---
 
