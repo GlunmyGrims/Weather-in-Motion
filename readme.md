@@ -12,6 +12,9 @@ A weather app that adapts its entire visual experience — glassmorphism UI, col
 
 ## Preview
 
+| **Demo**
+<video src="https://github.com/user-attachments/assets/1f3b5c7d-2b92-4651-8ab5-54794f175f2d" autoplay loop muted playsinline width="600"></video>
+
 | Clear                                 | Rain                                | Thunderstorm                                        | Error handling                        |
 | ------------------------------------- | ----------------------------------- | --------------------------------------------------- | ------------------------------------- |
 | ![Clear](assets/screenshot-clear.png) | ![Rain](assets/screenshot-rain.png) | ![Thunderstorm](assets/screenshot-thunderstorm.png) | ![Error](assets/screenshot-error.png) |
