@@ -23,7 +23,7 @@ A weather app that adapts its entire visual experience — glassmorphism UI, col
 
 ## Live Demo
 
-[try it now](weather-in-motion-git-main-glunmy-grims-projects.vercel.app)
+[Try it now!](https://weather-in-motion-git-main-glunmy-grims-projects.vercel.app)
 
 ---
 
