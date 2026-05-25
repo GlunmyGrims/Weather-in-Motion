@@ -1,4 +1,4 @@
-import { API_KEY } from "./config.js";
+export const API_KEY = "e26c21b903479976624083cf8f1df796";
 import {
   backgroundWeather,
   loading,
