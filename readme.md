@@ -79,7 +79,7 @@ weather-in-motion/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tu-usuario/weather-in-motion.git
+git clone https://github.com/GlunmyGrims/Weather-in-Motion.git
 ```
 
 ---
